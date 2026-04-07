@@ -1,16 +1,15 @@
-# React + Vite
+# Book Vibe - A book showcase app
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Book Vibe is a sleek and responsive book showcase app where users can explore a curated list of books with key details like title, author, genre, and ratings. Built using modern front‑end technologies, it helps readers discover interesting reads and enhances the browsing experience with an intuitive UI.
 
-Currently, two official plugins are available:
+## Technologies Used
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
-
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React.js
+- React Router
+- Javascript (ES6+)
+- Tailwind CSS
+- DaisyUI
+- React Icons
+- React Toastify
+- HTML5
+- JSON (for data management)
